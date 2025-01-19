@@ -3,7 +3,21 @@
 I am working on a complete eco-system to support stacks with micro, FPGA, complete OS to internet
 
 My git repos:
-Accessing general coding with C, C++, Python codes/problems: https://github.com/reddyp4/GeneralCoding
+Accessing general coding with C, C++, Python codes/problems: 
+https://github.com/reddyp4/GeneralCoding
+
+cmake compiler setup for c++:
+https://github.com/reddyp4/cmake
+
+STM32 Drivers for Cortex M0:
+https://github.com/reddyp4/STM32
+
+Raspberry Embedded Full Stack: Beam data to internet
+https://github.com/reddyp4/raspberry_fullstack
+
+Machine Learning Repo with Case Studies:
+https://github.com/reddyp4/machinelearning
+
 
 🔭 I’m currently working on raspberry pi full stack
 🌱 I’m currently learning embedded linux
