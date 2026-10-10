@@ -19,7 +19,8 @@ TI Motor Driver for C2000-LaunchPad XL:
 https://github.com/reddyp4/ti_robot_mcu
 
 Useful scripts:
-Usecase: Compress iphone videos and pictures
+
+1) Usecase: Compress iphone videos and pictures
 Script: (repo) GeneralCoding/Linux/Scripts/convert_iphone_media.py
 
 Machine Learning Repo with Case Studies:
